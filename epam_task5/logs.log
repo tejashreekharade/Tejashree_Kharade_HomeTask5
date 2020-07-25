@@ -1,0 +1,18 @@
+2020-07-25 19:31:05 INFO  App:15 - Welcome to my Universe!!!!
+2020-07-25 19:32:02 INFO  App:15 - Welcome to my Universe!!!!
+2020-07-25 19:37:21 INFO  Main:15 - Enter principle amount
+2020-07-25 19:38:21 INFO  Main:17 - Enter time period
+2020-07-25 19:38:23 INFO  Main:19 - Enter rate of interest
+2020-07-25 19:38:26 INFO  Main:24 - Your Simple Interest is 2000.0
+2020-07-25 19:38:26 INFO  Main:25 - Your Compound Interest is 12100.001
+2020-07-25 19:38:46 INFO  App:24 - ---Please enter total area of the house(in square feet)---
+2020-07-25 19:39:33 INFO  App:26 - ---Enter 1 if you opt for a fully automated house otherwise enter 0---
+2020-07-25 19:39:40 INFO  App:31 - Your estimated house construction cost is Rs.250000.0
+2020-07-25 19:39:40 INFO  App:32 - Do you want to continue?
+enter 1 to continue otherwise enter 0
+2020-07-25 19:39:59 INFO  App:24 - ---Please enter total area of the house(in square feet)---
+2020-07-25 19:40:03 INFO  App:26 - ---Enter 1 if you opt for a fully automated house otherwise enter 0---
+2020-07-25 19:40:07 INFO  App:31 - Your estimated house construction cost is Rs.2500000.0
+2020-07-25 19:40:07 INFO  App:32 - Do you want to continue?
+enter 1 to continue otherwise enter 0
+2020-07-25 19:41:37 INFO  App:37 - Thank you
